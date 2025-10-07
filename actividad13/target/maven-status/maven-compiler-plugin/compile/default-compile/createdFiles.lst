@@ -1,0 +1,5 @@
+com\biblioteca\gui\BibliotecaGUI.class
+com\biblioteca\model\Libro.class
+com\biblioteca\dao\LibroDAO.class
+com\biblioteca\gui\BibliotecaGUI$LibroCellRenderer.class
+com\biblioteca\Main.class

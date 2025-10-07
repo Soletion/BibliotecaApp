@@ -1,0 +1,10 @@
+ObjectDB
+Config
+
+DEFAULT
+
+La bd de "biblioteca.odb"
+#> programa BD objectDB\objectdb-2.9.3\db
+Contiene bastantes datos puedes copiarla para verlos.
+
+Java JDK-11
