@@ -105,10 +105,6 @@ Asegúrate de configurar correctamente:
 2. Las credenciales de acceso a la BD
 3. El esquema de la base de datos según el modelo Libro
 
-## 📝 Notas de Desarrollo
+## 📝 Autor
 
-- La interfaz usa `GridBagLayout` para un diseño flexible
-- Implementa `ListCellRenderer` personalizado para formato tabular
-- Usa `Timer` para mensajes temporales
-- Manejo de eventos con listeners y lambdas
-- Validación exhaustiva de entradas de usuario
+Desarrollado por **Natasha Solange Marcos Curbalán**.
